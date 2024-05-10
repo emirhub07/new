@@ -99,6 +99,7 @@ class _My_WalletState extends State<My_Wallet> {
 
   @override
   void initState() {
+    print('${from12.paymentdata}::::::');
 
 
     getlocledata();
